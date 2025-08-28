@@ -29,21 +29,40 @@ This repo is not a tutorial — it’s my **hands-on portfolio of work** showing
 ```
 
 data-visualization-python/
-│── 01-introduction.ipynb
-│── 02-matplotlib-basics.ipynb
-│── 03-line-bar-scatter.ipynb
-│── 04-histograms-boxplots.ipynb
-│── 05-customization-styles.ipynb
-│── 06-subplots-layouts.ipynb
-│── 07-seaborn-basics.ipynb
-│── 08-distribution-plots.ipynb
-│── 09-categorical-plots.ipynb
-│── 10-matrix-plots.ipynb
-│── 11-regression-plots.ipynb
-│── 12-style-themes.ipynb
-│── 13-plotly-intro.ipynb
-│── 14-combined-viz.ipynb
 │── README.md
+│── requirements.txt
+│── LICENSE
+│── .gitignore
+│
+├── datasets/                       # Sample datasets for practice
+│   ├── sales.csv
+│   ├── tips.csv
+│   └── iris.csv
+│
+├── notebooks/
+│   ├── 01-introduction.ipynb       # Intro to Data Visualization, Why it matters
+│   │
+│   ├── matplotlib/                 # Core Matplotlib Tutorials
+│   │   ├── 02-matplotlib-basics.ipynb
+│   │   ├── 03-line-bar-scatter.ipynb
+│   │   ├── 04-histograms-boxplots.ipynb
+│   │   ├── 05-customization-styles.ipynb
+│   │   └── 06-subplots-layouts.ipynb
+│   │
+│   ├── seaborn/                    # Core Seaborn Tutorials
+│   │   ├── 07-seaborn-basics.ipynb
+│   │   ├── 08-distribution-plots.ipynb
+│   │   ├── 09-categorical-plots.ipynb
+│   │   ├── 10-matrix-plots.ipynb   # Heatmaps, pairplots, clustermaps
+│   │   ├── 11-regression-plots.ipynb
+│   │   └── 12-style-themes.ipynb
+│   │
+│   ├── advanced/                   # Advanced visualization concepts
+│   │   ├── 13-plotly-intro.ipynb   # (Optional bonus interactive viz)
+│   │   ├── 14-combined-viz.ipynb   # Using Matplotlib + Seaborn together
+│   │   └── 15-case-study.ipynb     # Mini EDA visualization case study
+│   │
+
 
 ```
 
