@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 📊 Data Visualization in Python  
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)  
@@ -86,8 +82,5 @@ It reflects **real progress, not tutorials** — serving as a portfolio of my jo
 💼 [LinkedIn](https://www.linkedin.com/)  
 🐙 [GitHub](https://github.com/)  
 ✉️ Email: your-email@example.com  
-
----
-```
 
 ---
