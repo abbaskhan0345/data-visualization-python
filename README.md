@@ -98,8 +98,8 @@ It reflects **real progress, not tutorials** — serving as a portfolio of my jo
 
 ## 📬 Connect  
 
-💼 [LinkedIn](https://www.linkedin.com/)  
-🐙 [GitHub](https://github.com/)  
-✉️ Email: your-email@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/hazrat-abbas-khan-113136329/)  
+🐙 [GitHub](https://github.com/abbaskhan0345)  
+✉️ Email: abbaskhan0345060@gmail.com
 
 ---
